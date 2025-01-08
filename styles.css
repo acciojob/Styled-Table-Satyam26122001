@@ -1,1 +1,11 @@
 /* your code */
+#color{
+	background-color:blue;
+}
+#name{
+	border-collapse:collapse;
+	margin:25px 0;
+	overflow:hidden;
+	border-radius:8px;
+	font-size:18px;
+}
